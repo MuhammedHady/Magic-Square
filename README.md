@@ -7,10 +7,10 @@ Definition of magic square
 a square containing a number of integers arranged so that the sum of the numbers is the same in each row, column, and main diagonal and often in some or all of the other diagonals
 
 
-ex:
-4 9 2
-3 5 7
-8 1 6
+ex:                                                         
+4 9 2                                                         
+3 5 7                                                         
+8 1 6                                                         
 
 So:                                                           
 R1 >> 4 + 9 + 2 = 15                                                         
