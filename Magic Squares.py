@@ -128,3 +128,6 @@ for _ in range(n):
 
 results = Magic()
 print (results.infoMagic(n))
+
+
+#### Checking Repo ####
